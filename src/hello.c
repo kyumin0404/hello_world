@@ -3,6 +3,6 @@
 
 void hello()
 {
-    printf("Hello, world!\n");
+    printf("Hello, jaeyun!\n");
     return;
 }
